@@ -61,7 +61,6 @@ void printArray(int arr[], int size)
 	cout << endl;
 }
 
-// Driver Code
 int main()
 {
 	int arr[] = {10, 7, 8, 9, 1, 5};
@@ -72,4 +71,3 @@ int main()
 	return 0;
 }
 
-// This code is contributed by rathbhupendra
